@@ -1,6 +1,6 @@
 # SGBD TPC-H Benchmark
 
-Benchmark experimental TPC-H para PostgreSQL, MySQL, SQL Server e Oracle Free. MariaDB não entra.
+Benchmark experimental TPC-H para PostgreSQL, MySQL, SQL Server e Oracle Free.
 
 > Isto não é resultado oficial auditado TPC-H. É um protocolo acadêmico reproduzível.
 
