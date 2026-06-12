@@ -1,0 +1,92 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: bench-postgres
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-tpch}
+      POSTGRES_USER: ${POSTGRES_USER:-tpch}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-tpchpass}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./data/tpch_clean:/tpch-data:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-tpch} -d ${POSTGRES_DB:-tpch}"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+
+  mysql:
+    image: mysql:8.4
+    container_name: bench-mysql
+    command: --local-infile=1 --secure-file-priv=""
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-tpch}
+      MYSQL_USER: ${MYSQL_USER:-tpch}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-tpchpass}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpass}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./data/tpch_clean:/tpch-data:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-p${MYSQL_ROOT_PASSWORD:-rootpass}"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: bench-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: ${MSSQL_SA_PASSWORD:-StrongPassw0rd!}
+      MSSQL_PID: ${MSSQL_PID:-Developer}
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+      - ./data/tpch_clean:/tpch-data:ro
+    healthcheck:
+      test: ["CMD-SHELL", "timeout 1 bash -c '</dev/tcp/127.0.0.1/1433' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 40
+
+  oracle:
+    image: gvenzl/oracle-free:23-slim
+    container_name: bench-oracle
+    environment:
+      ORACLE_PASSWORD: ${ORACLE_SYS_PASSWORD:-StrongPassw0rd!}
+      APP_USER: ${ORACLE_USER:-tpch}
+      APP_USER_PASSWORD: ${ORACLE_PASSWORD:-tpchpass}
+    ports:
+      - "1521:1521"
+    volumes:
+      - oracle_data:/opt/oracle/oradata
+      - ./data/tpch_clean:/tpch-data:ro
+    healthcheck:
+      test: ["CMD-SHELL", "healthcheck.sh"]
+      interval: 15s
+      timeout: 10s
+      retries: 60
+
+  runner:
+    build:
+      context: .
+      dockerfile: Dockerfile.runner
+    container_name: bench-runner
+    env_file:
+      - .env
+    volumes:
+      - .:/work
+    working_dir: /work
+    command: bash
+
+volumes:
+  postgres_data:
+  mysql_data:
+  sqlserver_data:
+  oracle_data:
