@@ -1,12 +1,12 @@
 {
-  "run_id": "b43b09b4-227b-4f96-b2d4-25b543b7b475",
-  "timestamp_utc": "2026-06-10T16:08:25.000740+00:00",
+  "run_id": "0b443bff-e556-4f29-87c8-1ab117d55149",
+  "timestamp_utc": "2026-06-13T01:23:35.376600+00:00",
   "sf": 1.0,
   "dbms": [
     "postgres"
   ],
-  "sequential_iterations": 1,
-  "speedup_iterations": 1,
+  "sequential_iterations": 10,
+  "speedup_iterations": 5,
   "speedup_threads": [
     1,
     4,
@@ -14,7 +14,7 @@
     16
   ],
   "throughput_query_id": 1,
-  "throughput_seconds": 60,
+  "throughput_seconds": 120,
   "throughput_threads": 1,
   "clear_cache_between_runs": true
 }
