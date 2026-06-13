@@ -1,0 +1,20 @@
+{
+  "run_id": "d9b3a6b1-544d-4afa-a93c-a479650062af",
+  "timestamp_utc": "2026-06-13T17:39:32.597384+00:00",
+  "sf": 1.0,
+  "dbms": [
+    "sqlserver"
+  ],
+  "sequential_iterations": 10,
+  "speedup_iterations": 5,
+  "speedup_threads": [
+    1,
+    4,
+    8,
+    16
+  ],
+  "throughput_query_id": 1,
+  "throughput_seconds": 120,
+  "throughput_threads": 1,
+  "clear_cache_between_runs": true
+}

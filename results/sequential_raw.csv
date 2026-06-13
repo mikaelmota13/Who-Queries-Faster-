@@ -439,3 +439,443 @@ b54138a9-6563-462b-8b53-ec465d42a5dd,2026-06-13T10:57:31.274237+00:00,sequential
 b54138a9-6563-462b-8b53-ec465d42a5dd,2026-06-13T10:57:31.274237+00:00,sequential_latency,mysql,1.0,20,10,True,14.771724561003793,162,True,,True,,
 b54138a9-6563-462b-8b53-ec465d42a5dd,2026-06-13T10:57:31.274237+00:00,sequential_latency,mysql,1.0,21,10,True,26.8919161110025,377,True,,True,,
 b54138a9-6563-462b-8b53-ec465d42a5dd,2026-06-13T10:57:31.274237+00:00,sequential_latency,mysql,1.0,22,10,True,0.7390790939971339,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,1,True,3.5483588260030956,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,1,True,0.6584127399983117,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,1,True,4.1734345049990225,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,1,False,0.0004478190021472983,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,1,False,0.00040580999484518543,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,1,False,0.0003620179995778017,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,1,True,2.6518213620001916,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,1,True,1.5999641790040187,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,1,True,4.41293397499976,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,1,False,0.00039778499922249466,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,1,True,0.5318471059945296,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,1,False,0.0004259069974068552,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,1,True,0.7916747510025743,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,1,False,0.0004196759982733056,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,1,False,0.00041236299875890836,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,1,True,0.4396294409962138,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,1,True,1.6789517590004834,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,1,True,3.338765713000612,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,1,True,3.7107866000005743,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,1,False,0.0004445930026122369,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,1,True,5.524043548997724,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,1,True,0.2766269359999569,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,2,True,3.256552040002134,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,2,True,0.43595240300055593,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,2,True,4.203826600998582,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,2,False,0.0003862240046146326,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,2,False,0.00039741399814374745,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,2,False,0.00034754099760903046,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,2,True,2.6273019360014587,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,2,True,1.6206055649963673,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,2,True,4.396974146999128,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,2,False,0.00043327199819032103,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,2,True,0.536205489996064,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,2,False,0.0003968029996030964,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,2,True,0.7130966960030491,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,2,False,0.00041482699452899396,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,2,False,0.00041870400309562683,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,2,True,0.36133406899898546,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,2,True,1.3076970870024525,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,2,True,3.333739016998152,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,2,True,3.3785543859994505,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,2,False,0.0004018219988211058,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,2,True,5.386581541999476,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,2,True,0.16162702400470152,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,3,True,3.266533497000637,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,3,True,0.4441939550015377,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,3,True,4.163270473000011,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,3,False,0.00040282400004798546,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,3,False,0.00045020299876341596,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,3,False,0.00035160900006303564,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,3,True,2.6864765970021836,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,3,True,1.6084569890008424,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,3,True,4.380408194003394,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,3,False,0.0004279209970263764,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,3,True,0.5381854190054582,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,3,False,0.00041939500079024583,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,3,True,0.7037980999957654,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,3,False,0.0003822559956461191,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,3,False,0.0004407150045153685,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,3,True,0.38688701200590003,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,3,True,1.2843352079944452,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,3,True,3.3665401249963907,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,3,True,3.374299659000826,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,3,False,0.00041866399988066405,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,3,True,5.380848892003996,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,3,True,0.18010481300007086,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,4,True,3.2720369359958568,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,4,True,0.45083164700190537,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,4,True,4.1795905210019555,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,4,False,0.0004013110010419041,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,4,False,0.0004149669985054061,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,4,False,0.0003382130016689189,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,4,True,2.6274766989954514,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,4,True,1.6308876760012936,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,4,True,4.387991668001632,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,4,False,0.0004101879967493005,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,4,True,0.5187289180030348,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,4,False,0.00038845800008857623,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,4,True,0.7441679740004474,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,4,False,0.0004045669993502088,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,4,False,0.00041462600347585976,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,4,True,0.3843230080019566,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,4,True,1.274115354004607,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,4,True,3.3486888330007787,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,4,True,3.345141716999933,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,4,False,0.0004031650023534894,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,4,True,5.408474192998256,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,4,True,0.16602994300046703,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,5,True,3.288122227000713,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,5,True,0.444969215997844,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,5,True,4.179718202998629,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,5,False,0.0004473980006878264,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,5,False,0.00042354300239821896,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,5,False,0.0003639409987954423,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,5,True,2.6611623790013255,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,5,True,1.6125694680013112,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,5,True,4.369264217006275,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,5,False,0.0004025310045108199,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,5,True,0.5328829840000253,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,5,False,0.0004063889937242493,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,5,True,0.7317148799993447,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,5,False,0.0004096749980817549,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,5,False,0.00044716599950334057,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,5,True,0.39164553000591695,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,5,True,1.2698349639977096,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,5,True,3.3230925729949377,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,5,True,3.3839634870018926,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,5,False,0.0004619649989763275,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,5,True,5.453851341997506,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,5,True,0.17421826499776216,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,6,True,3.271729972002504,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,6,True,0.4232180819963105,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,6,True,4.219350241997745,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,6,False,0.00041500699444441125,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,6,False,0.00038835700252093375,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,6,False,0.00031295700318878517,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,6,True,2.618883358001767,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,6,True,1.6308322960030637,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,6,True,4.386123218006105,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,6,False,0.00040688199806027114,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,6,True,0.5551343740007724,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,6,False,0.00037937100569251925,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,6,True,0.7159180520029622,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,6,False,0.0004019230036647059,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,6,False,0.00042789099825313315,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,6,True,0.3892800030007493,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,6,True,1.2965355239939527,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,6,True,3.3595304190021125,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,6,True,3.3694569020008203,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,6,False,0.0005155530016054399,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,6,True,5.435444528004155,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,6,True,0.15559683000174118,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,7,True,3.261903645005077,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,7,True,0.4184698820026824,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,7,True,4.1906276219961,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,7,False,0.00041386399971088395,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,7,False,0.0003632500011008233,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,7,False,0.0003439540014369413,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,7,True,2.652624078000372,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,7,True,1.6295325969986152,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,7,True,4.3755776999969385,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,7,False,0.00039237499731825665,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,7,True,0.5061195410016808,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,7,False,0.000422361001255922,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,7,True,0.7256187189996126,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,7,False,0.00039945799653651193,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,7,False,0.0004316280028433539,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,7,True,0.3568892860057531,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,7,True,1.3205543009971734,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,7,True,3.360892133001471,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,7,True,3.354159473994514,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,7,False,0.00039337600173894316,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,7,True,5.436697001001448,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,7,True,0.17847522299416596,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,8,True,3.277702577004675,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,8,True,0.4038343119973433,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,8,True,4.203469888001564,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,8,False,0.00044219700066605583,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,8,False,0.00038170500192791224,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,8,False,0.0003605960009736009,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,8,True,2.611071314000583,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,8,True,1.6209935320002842,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,8,True,4.399523642001441,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,8,False,0.00044713700481224805,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,8,True,0.5115140180059825,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,8,False,0.0004278109990991652,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,8,True,0.7287855690010474,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,8,False,0.00041296299605164677,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,8,False,0.00042111799848498777,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,8,True,0.3801629320005304,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,8,True,1.3093358370024362,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,8,True,3.3678926349966787,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,8,True,3.34676560099615,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,8,False,0.00043369200284359977,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,8,True,5.4517732719978085,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,8,True,0.18399968400626676,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,9,True,3.290252013001009,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,9,True,0.45130881200020667,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,9,True,4.186272074002773,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,9,False,0.0004189239989500493,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,9,False,0.00038087299617473036,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,9,False,0.00035347099765203893,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,9,True,2.645292402994528,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,9,True,1.630601482000202,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,9,True,4.3863061599986395,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,9,False,0.00039456900412915275,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,9,True,0.5375158070019097,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,9,False,0.00043999299668939784,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,9,True,0.7312968839978566,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,9,False,0.0003913330001523718,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,9,False,0.000423313002102077,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,9,True,0.38632566099840915,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,9,True,1.2673772139969515,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,9,True,3.3606148889957694,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,9,True,3.3525184230020386,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,9,False,0.00040505800279788673,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,9,True,5.430053657000826,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,9,True,0.15670690499973716,3,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,1,10,True,3.2393920670001535,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,2,10,True,0.42433814499963773,446,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,3,10,True,4.171546803001547,11694,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,4,10,False,0.00038344800123013556,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\nDB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,5,10,False,0.0003764449938898906,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,6,10,False,0.0003416190011193976,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,7,10,True,2.616611252997245,4,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,8,10,True,1.6371251469972776,2,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,9,10,True,4.390638801996829,175,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,10,10,False,0.00039069099875632674,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,11,10,True,0.5346271759990486,979,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,12,10,False,0.00038964000123087317,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,13,10,True,0.7417584030044964,41,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,14,10,False,0.00038052199670346454,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,15,10,False,0.0004437509996932931,0,True,,True,,"(102, b""Incorrect syntax near '3'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,16,10,True,0.4009791189964744,18294,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,17,10,True,1.3071188089961652,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,18,10,True,3.368108372997085,9,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,19,10,True,3.367603937003878,1,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,20,10,False,0.00042271200072718784,0,True,,True,,"(102, b""Incorrect syntax near '1'.DB-Lib error message 20018, severity 15:\nGeneral SQL Server error: Check messages from the SQL Server\n"")"
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,21,10,True,5.483656898002664,377,True,,True,,
+d9b3a6b1-544d-4afa-a93c-a479650062af,2026-06-13T17:39:32.597384+00:00,sequential_latency,sqlserver,1.0,22,10,True,0.15231359800236532,3,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,1,False,0.0005410939920693636,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,1,True,0.28793277899967507,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,1,True,1.4272140829998534,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,1,True,0.5644412060064496,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,1,True,3.201599721011007,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,1,True,0.3787201480008662,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,1,False,0.000564627000130713,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,1,False,0.0005605500045930967,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,1,False,0.0005453519988805056,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,1,True,1.1910908370045945,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,1,True,0.21609593500033952,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,1,True,1.3777861620037584,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,1,False,0.0005133100057719275,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,1,True,0.4497147849906469,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,1,False,0.0004077740013599396,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,1,True,0.3311041159904562,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,1,True,0.20541142400179524,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,1,True,3.3941050579887815,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,1,True,0.39856054200208746,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,1,True,0.710082350007724,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,1,True,1.6204970440012403,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,1,False,0.0005654380074702203,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,2,False,0.0004930629947921261,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,2,True,0.20162778500525746,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,2,True,1.387085170004866,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,2,True,0.5495865129923914,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,2,True,3.081193212987273,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,2,True,0.3702139129891293,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,2,False,0.0005597879935521632,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,2,False,0.0005608799983747303,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,2,False,0.0005381480004871264,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,2,True,1.106291322998004,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,2,True,0.2038595400081249,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,2,True,1.3399329599924386,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,2,False,0.0005551699869101867,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,2,True,0.44155494500591885,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,2,False,0.00039253500290215015,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,2,True,0.2847483219957212,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,2,True,0.15698326600249857,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,2,True,3.3577630179934204,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,2,True,0.26992303399310913,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,2,True,0.6142088100023102,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,2,True,1.6095723580074264,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,2,False,0.0005834320036228746,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,3,False,0.0005243620107648894,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,3,True,0.2052449129987508,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,3,True,1.350788009003736,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,3,True,0.552863780001644,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,3,True,3.043762613000581,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,3,True,0.37080657501064707,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,3,False,0.0005601290031336248,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,3,False,0.0005772700096713379,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,3,False,0.0005527549947146326,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,3,True,1.1167048999923281,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,3,True,0.20496804900176357,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,3,True,1.336093820995302,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,3,False,0.0005083620053483173,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,3,True,0.44157970999367535,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,3,False,0.0003906010097125545,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,3,True,0.2823107419972075,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,3,True,0.15701557899592444,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,3,True,3.3837084059923654,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,3,True,0.26034953200723976,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,3,True,0.6155160049966071,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,3,True,1.6136307779961498,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,3,False,0.0005807269917568192,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,4,False,0.0005157859995961189,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,4,True,0.2019846679904731,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,4,True,1.3432354380056495,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,4,True,0.5537297150003724,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,4,True,3.143599588001962,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,4,True,0.36863489700772334,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,4,False,0.0005671420076396316,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,4,False,0.000604181012022309,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,4,False,0.0005266560037853196,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,4,True,1.1113984270050423,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,4,True,0.20666015599272214,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,4,True,1.3317843770055333,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,4,False,0.0005555399984586984,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,4,True,0.44392169298953377,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,4,False,0.00043460399319883436,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,4,True,0.2835139840026386,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,4,True,0.15854801799287088,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,4,True,3.360664962005103,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,4,True,0.2686385679990053,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,4,True,0.6215687740041176,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,4,True,1.59996399199008,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,4,False,0.0006036690028849989,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,5,False,0.0005209939990891144,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,5,True,0.20244010200258344,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,5,True,1.3909441779978806,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,5,True,0.5598302629950922,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,5,True,3.1864162440033397,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,5,True,0.37276051299704704,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,5,False,0.0006830490019638091,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,5,False,0.0006061250023776665,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,5,False,0.0005867989966645837,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,5,True,1.1153197250096127,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,5,True,0.20265570499759633,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,5,True,1.3233787450008094,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,5,False,0.0005996020045131445,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,5,True,0.44735958400997333,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,5,False,0.000382826998247765,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,5,True,0.27942551199521404,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,5,True,0.15658800999517553,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,5,True,3.277257968991762,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,5,True,0.2689559249993181,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,5,True,0.6157528640032979,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,5,True,1.6388989400002174,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,5,False,0.0005814289906993508,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,6,False,0.0005634150002151728,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,6,True,0.2027091859927168,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,6,True,1.347001268004533,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,6,True,0.5514510590001009,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,6,True,3.0615787429997,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,6,True,0.3728364429989597,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,6,False,0.0005556099931709468,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,6,False,0.0005709989927709103,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,6,False,0.0005647170037264004,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,6,True,1.1244005590124289,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,6,True,0.20322081800259184,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,6,True,1.306760335995932,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,6,False,0.000506919008330442,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,6,True,0.437347304992727,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,6,False,0.0003861119912471622,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,6,True,0.2872581639967393,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,6,True,0.15574904800450895,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,6,True,3.3684454330068547,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,6,True,0.2743126889981795,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,6,True,0.6160119580017636,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,6,True,1.6148016880033538,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,6,False,0.0005366440018406138,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,7,False,0.0005272370035527274,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,7,True,0.20721425100055058,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,7,True,1.3601081789965974,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,7,True,0.549697317997925,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,7,True,3.1654142280021915,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,7,True,0.3718847790005384,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,7,False,0.0005952539941063151,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,7,False,0.0005667509976774454,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,7,False,0.0005577039992203936,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,7,True,1.1187144110008376,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,7,True,0.20631457900162786,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,7,True,1.3270151920005446,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,7,False,0.0005134810053277761,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,7,True,0.44294072200136725,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,7,False,0.00038604300061706454,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,7,True,0.2805404959945008,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,7,True,0.1581359340052586,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,7,True,3.373684863006929,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,7,True,0.26982323100673966,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,7,True,0.6173680770007195,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,7,True,1.6049094220070401,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,7,False,0.0006055339908925816,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,8,False,0.0006072370015317574,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,8,True,0.20127383900398854,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,8,True,1.3473417760105804,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,8,True,0.5593639760045335,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,8,True,3.017363449005643,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,8,True,0.3694057420070749,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,8,False,0.0006488350045401603,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,8,False,0.0005922489945078269,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,8,False,0.0005541970022022724,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,8,True,1.1037281630124198,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,8,True,0.2033637419954175,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,8,True,1.3077273520029848,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,8,False,0.000590896001085639,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,8,True,0.4461237390059978,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,8,False,0.0004774039989570156,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,8,True,0.2845042210101383,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,8,True,0.15675138599181082,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,8,True,3.3219911589985713,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,8,True,0.2689786119881319,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,8,True,0.6137392579985317,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,8,True,1.6018067429977236,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,8,False,0.0006508480000775307,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,9,False,0.0005203139880904928,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,9,True,0.20077856798889115,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,9,True,1.3473824859975139,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,9,True,0.549959737007157,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,9,True,3.099900297005661,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,9,True,0.37723766500130296,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,9,False,0.000592650001635775,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,9,False,0.0005807369889225811,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,9,False,0.0005529049958568066,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,9,True,1.1083810089912731,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,9,True,0.20401902799494565,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,9,True,1.334201766003389,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,9,False,0.0004871240089414641,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,9,True,0.4414272950089071,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,9,False,0.000434896006481722,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,9,True,0.28048969600058626,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,9,True,0.1581737870001234,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,9,True,3.352090425003553,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,9,True,0.27184424200095236,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,9,True,0.6190250960062258,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,9,True,1.6214259930129629,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,9,False,0.0005116579995956272,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,1,10,False,0.0005546589964069426,0,True,,True,,ORA-01873: the leading precision of the interval is too small Help: https://docs.oracle.com/error-help/db/ora-01873/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,2,10,True,0.19925139500992373,446,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,3,10,True,1.3629175709938863,11694,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,4,10,True,0.5566754689934896,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,5,10,True,3.075028064995422,5,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,6,10,True,0.36835623100341763,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,7,10,False,0.0006537559966091067,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and date '1996-12-31' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,8,10,False,0.0006562399939866737,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...= 'SMALL PLATED NICKEL' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,9,10,False,0.0005319370102370158,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...and p_name like '%deep%' ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,10,10,True,1.1417909670126392,38263,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,11,10,True,0.2031849909981247,979,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,12,10,True,1.325851389003219,2,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,13,10,False,0.0005748450057581067,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...group by c_custkey ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,14,10,True,0.44297859400103334,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,15,10,False,0.000422922006691806,0,True,,True,,ORA-03405: End of query reached; no additional text should follow. Help: https://docs.oracle.com/error-help/db/ora-03405/
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,16,10,True,0.2803348629968241,18294,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,17,10,True,0.15738234700984322,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,18,10,True,3.4146161829994526,9,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,19,10,True,0.2692995020042872,1,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,20,10,True,0.6209381130029215,162,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,21,10,True,1.5967725079972297,377,True,,True,,
+03015c1f-8835-4108-8d4d-3922d601b2b6,2026-06-13T18:55:47.394793+00:00,sequential_latency,oracle,1.0,22,10,False,0.0006012059893691912,0,True,,True,,ORA-03048: SQL reserved word 'AS' is not syntactically valid following '...o_custkey = c_custkey ) ) ' Help: https://docs.oracle.com/error-help/db/ora-03048/
