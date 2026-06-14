@@ -1,9 +1,9 @@
 {
-  "run_id": "0b443bff-e556-4f29-87c8-1ab117d55149",
-  "timestamp_utc": "2026-06-13T01:23:35.376600+00:00",
+  "run_id": "7e8024aa-54a0-4bb2-ae6c-e15471555db1",
+  "timestamp_utc": "2026-06-14T06:44:57.688188+00:00",
   "sf": 1.0,
   "dbms": [
-    "postgres"
+    "oracle"
   ],
   "sequential_iterations": 10,
   "speedup_iterations": 5,
