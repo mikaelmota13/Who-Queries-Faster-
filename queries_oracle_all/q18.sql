@@ -1,4 +1,4 @@
--- using 1781313510 as a seed to the RNG
+-- using 1780933773 as a seed to the RNG
 
 
 select
@@ -33,4 +33,3 @@ group by
 order by
 	o_totalprice desc,
 	o_orderdate;
-where rownum <= 100;

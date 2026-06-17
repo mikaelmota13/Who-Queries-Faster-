@@ -1,4 +1,4 @@
--- using 1781313510 as a seed to the RNG
+-- using 1780933773 as a seed to the RNG
 
 
 select
@@ -20,7 +20,7 @@ where
 				from
 					part
 				where
-					p_name like 'medium%'
+					p_name like 'papaya%'
 			)
 			and ps_availqty > (
 				select
@@ -35,7 +35,6 @@ where
 			)
 	)
 	and s_nationkey = n_nationkey
-	and n_name = 'UNITED STATES'
+	and n_name = 'ROMANIA'
 order by
 	s_name;
-where rownum <= -1;

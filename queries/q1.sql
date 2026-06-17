@@ -1,4 +1,4 @@
--- using 1780933773 as a seed to the RNG
+-- using 1781313508 as a seed to the RNG
 
 
 select
@@ -15,7 +15,7 @@ select
 from
 	lineitem
 where
-	l_shipdate <= date '1998-12-01' - interval '80' day (3)
+	l_shipdate <= date '1998-12-01' - interval '110' day (3)
 group by
 	l_returnflag,
 	l_linestatus

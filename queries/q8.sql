@@ -1,4 +1,4 @@
--- using 1780933773 as a seed to the RNG
+-- using 1781313510 as a seed to the RNG
 
 
 select
@@ -32,7 +32,7 @@ from
 			and r_name = 'AFRICA'
 			and s_nationkey = n2.n_nationkey
 			and o_orderdate between date '1995-01-01' and date '1996-12-31'
-			and p_type = 'ECONOMY PLATED COPPER'
+			and p_type = 'SMALL PLATED NICKEL'
 	) as all_nations
 group by
 	o_year
