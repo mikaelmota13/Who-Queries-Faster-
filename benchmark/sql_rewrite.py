@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 import re
 from pathlib import Path
 
@@ -87,10 +88,33 @@ def rewrite_sql(sql: str, dbms: str) -> str:
     raise ValueError(f"DBMS inválido: {dbms}")
 
 
+def _resolve_query_dir(value: str) -> Path:
+    path = Path(value)
+    return path if path.is_absolute() else settings.root / path
+
+
 def load_query(query_id: int, dbms: str) -> str:
-    path = settings.query_dir / f"q{query_id}.sql"
-    if not path.exists():
-        raise FileNotFoundError(f"Consulta ausente: {path}. Rode: make tpch")
+    if dbms == "oracle":
+        query_dir = _resolve_query_dir(os.getenv("ORACLE_QUERY_DIR", "queries_oracle"))
+    elif dbms == "sqlserver":
+        query_dir = _resolve_query_dir(os.getenv("SQLSERVER_QUERY_DIR", "queries_sqlserver"))
+    else:
+        query_dir = settings.query_dir
+
+    candidates = [
+        query_dir / f"q{query_id}.sql",
+        query_dir / f"q{query_id:02d}.sql",
+        query_dir / f"Q{query_id}.sql",
+        query_dir / f"Q{query_id:02d}.sql",
+    ]
+
+    path = next((p for p in candidates if p.exists()), None)
+
+    if path is None:
+        raise FileNotFoundError(
+            f"Consulta Q{query_id:02d} ausente em {query_dir}. "
+            f"Esperado: q{query_id}.sql, q{query_id:02d}.sql, Q{query_id}.sql ou Q{query_id:02d}.sql"
+        )
 
     sql = path.read_text(encoding="utf-8", errors="replace")
 
