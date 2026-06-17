@@ -1,9 +1,9 @@
 {
-  "run_id": "377ee1fa-4259-4b37-a958-007bab1fccf2",
-  "timestamp_utc": "2026-06-17T02:56:33.637460+00:00",
+  "run_id": "3a21d588-ba10-4eeb-9666-48e347311ac4",
+  "timestamp_utc": "2026-06-17T12:25:15.565007+00:00",
   "sf": 10.0,
   "dbms": [
-    "sqlserver"
+    "oracle"
   ],
   "sequential_iterations": 10,
   "speedup_iterations": 10,
