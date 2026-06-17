@@ -1,12 +1,12 @@
 {
-  "run_id": "b90a0fca-21f6-4a08-beed-18b197a35c1e",
-  "timestamp_utc": "2026-06-13T21:54:43.858880+00:00",
-  "sf": 1.0,
+  "run_id": "be9fda4f-6c91-4ef2-909c-8adee05da89a",
+  "timestamp_utc": "2026-06-17T05:16:48.001904+00:00",
+  "sf": 10.0,
   "dbms": [
-    "postgres"
+    "oracle"
   ],
   "sequential_iterations": 10,
-  "speedup_iterations": 5,
+  "speedup_iterations": 10,
   "speedup_threads": [
     1,
     4,
