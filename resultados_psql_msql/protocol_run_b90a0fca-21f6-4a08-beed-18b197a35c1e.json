@@ -1,0 +1,20 @@
+{
+  "run_id": "b90a0fca-21f6-4a08-beed-18b197a35c1e",
+  "timestamp_utc": "2026-06-13T21:54:43.858880+00:00",
+  "sf": 1.0,
+  "dbms": [
+    "postgres"
+  ],
+  "sequential_iterations": 10,
+  "speedup_iterations": 5,
+  "speedup_threads": [
+    1,
+    4,
+    8,
+    16
+  ],
+  "throughput_query_id": 1,
+  "throughput_seconds": 120,
+  "throughput_threads": 1,
+  "clear_cache_between_runs": true
+}
