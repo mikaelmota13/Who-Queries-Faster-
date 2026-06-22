@@ -1,0 +1,20 @@
+{
+  "run_id": "99c180a6-affd-4d6b-a008-f016cd422c2e",
+  "timestamp_utc": "2026-06-18T20:34:48.769877+00:00",
+  "sf": 10.0,
+  "dbms": [
+    "oracle"
+  ],
+  "sequential_iterations": 20,
+  "speedup_iterations": 20,
+  "speedup_threads": [
+    1,
+    4,
+    8,
+    16
+  ],
+  "throughput_query_id": 1,
+  "throughput_seconds": 120,
+  "throughput_threads": 1,
+  "clear_cache_between_runs": true
+}
